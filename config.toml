@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://hugo01.mxgemo.net/'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'hugo01.mxgemo.net'
 theme = 'netlify-basic'
